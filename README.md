@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Java backend developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaykumarkunder" alt="vinaykumarkunder" /></a> </p>
-
 - 🌱 I’m currently learning **Java , SQL, Spring boot**
 
 - 👨‍💻 All of my projects are available at [vinaykumarkundr.netlify.app/](vinaykumarkundr.netlify.app/)
