@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **vinay3000111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kD6xZMRgwfWEgdotlP9yO2qcagqpRrTZ/view?usp=sharing](https://drive.google.com/file/d/1kD6xZMRgwfWEgdotlP9yO2qcagqpRrTZ/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1kD6xZMRgwfWEgdotlP9yO2qcagqpRrTZ/view?usp=sharing](https://drive.google.com/file/d/1kD6xZMRgwfWEgdotlP9yO2qcagqpRrTZ/view?usp=sharing)](https://drive.google.com/file/d/1FLkQqnylhTMXJ7--aHfY-JtTPow-8JwG/view)
 
-- ⚡ Fun fact **I am funny.**
+- ⚡ Fun fact **I am Problem Solving man.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
