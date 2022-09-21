@@ -21,14 +21,14 @@
 
                                                        
 <h2><i>My GitHub Stats</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahtishamkhan5678&label=Profile%20views&color=0e75b6&style=flat" alt="ahtishamkhan5678" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarkunder&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ahtishamkhan5678&show_icons=true&locale=en&theme=dark" alt="ahtishamkhan5678"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ahtishamkhan5678" height="139" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinaykumarkunder&show_icons=true&locale=en&theme=dark" alt="VinayKumar"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaykumarkunder&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vinay Kumar" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=vinaykumarkunder&theme=xcode" height ="307"/>
 
 ![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
 
