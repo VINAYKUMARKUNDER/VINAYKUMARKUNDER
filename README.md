@@ -1,8 +1,7 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1cdDamj2oZFie7AmJoM051&ust=1663851173183000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjH1uP2pfoCFQAAAAAdAAAAABAI" alt="">
 
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarkunder&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumarkunder" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarkunder&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumarkunder" /> </p>
 
 - 🌱 I’m currently learning **Java Backend developer**
