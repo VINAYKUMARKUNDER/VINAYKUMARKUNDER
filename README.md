@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarkunder&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumarkunder" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarkunder&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumarkunder" /> </p>
 
 - 🌱 I’m currently learning **Java Backend developer**
