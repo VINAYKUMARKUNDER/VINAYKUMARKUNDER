@@ -43,9 +43,11 @@
                                                          
 <h3 align="left">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/mohamma23568021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamma23568021" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ahtisham-85a17a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCsxwht_uFh_G_iGmfNRs1bQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsxwht_ufh_g_igmfnrs1bq/featured" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/vinay-kumar-01b807215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinay Kumar" height="25" width="35" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vinay3000111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vinay Kumar" height="25" width="35" /></a>
+<a href="https://www.hackerrank.com/vinay3000111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vinay Kumar" height="25" width="35" /></a>
+<a href="https://www.leetcode.com/vinay5504472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vinay Kumar" height="25" width="35" /></a>
 </p>
 </div>  
 
@@ -56,13 +58,16 @@
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
 
 <div align="center">  
-	
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="JavaScript" height="50" /> 
+   
+ 
 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  
 
 <!--    -->
 
