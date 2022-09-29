@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
                                                        
-<h2><i>My GitHub Stats</i></h2>
+<h2><i>My GitHub Status</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarkunder&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <p>
