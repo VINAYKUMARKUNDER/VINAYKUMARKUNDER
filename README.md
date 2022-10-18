@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
 - 💬 Ask me about **Java**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://vinaykumarkunder.github.io/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FLkQqnylhTMXJ7--aHfY-JtTPow-8JwG/view)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kD6xZMRgwfWEgdotlP9yO2qcagqpRrTZ/view?usp=sharing)
 - 📫 How to reach me: ...**vinay3000111@gmail.com**
 - 😄 Pronouns: ...@Vinay
 - ⚡ Fun fact: ...Always smile😄 in tough situation
