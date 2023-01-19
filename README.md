@@ -28,7 +28,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaykumarkunder&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vinay Kumar" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=vinaykumarkunder&theme=xcode" height ="307"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=vinaykumarkunder&theme=xcode" height ="307"/> -->
+
+<a href="https://github.com/vinaykumarkunder"><img alt="vinaykumarkunder Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vinaykumarkunder&bg_color=182747&color=5BCDEC&line=31E1F7&point=FFCACA&hide_border=true" /></a>
 
 ![snake gif](https://github.com/vinaykumarkunder/vinaykumarkunder/blob/output/github-contribution-grid-snake.svg)
 
