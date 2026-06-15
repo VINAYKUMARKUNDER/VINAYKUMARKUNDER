@@ -1,90 +1,102 @@
-                                                        
-![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Vinay+Kumar!;A+Back-end+Developer...👨🏻‍💻;" style="width: 100%;">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h1 align="center"> 😇(Hello everyone)" 👋</h1>
-<h3 align="center">I'm a Full Stack Developer</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-                                                       
-- 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (Backend Developer)**
-- 💬 Ask me about **Java** **JavaScript** **NodeJs**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vinaykumarkunder.github.io/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kD6xZMRgwfWEgdotlP9yO2qcagqpRrTZ/view?usp=sharing)
-- 📫 How to reach me: ...**vinay3000111@gmail.com**
-- 😄 Pronouns: ...@Vinay
-- ⚡ Fun fact: ...Always smile😄 in tough situation
+# Vinay Kumar
+### Backend Engineer · Node.js · NestJS · TypeScript · PostgreSQL · AWS
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+Building the backend systems that move money — loan origination engines, payment orchestration layers, and KYC pipelines processing **10,000+ transactions/day** in production for NBFC lending platforms.
 
-                                                       
-<h2><i>My GitHub Status</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarkunder&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-01b807215/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A3A5C?style=flat-square&logo=googlechrome&logoColor=white)](https://vinaykumarkunder.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinay3000111@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/vinay5504472)
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinaykumarkunder&show_icons=true&locale=en&theme=dark" alt="VinayKumar"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaykumarkunder&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vinay Kumar" height="139" />
-</p>
+</div>
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=vinaykumarkunder&theme=xcode" height ="307"/> -->
+<br>
 
-<a href="https://github.com/vinaykumarkunder"><img alt="vinaykumarkunder Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vinaykumarkunder&bg_color=182747&color=5BCDEC&line=31E1F7&point=FFCACA&hide_border=true" /></a>
+## Impact Highlights
 
-![snake gif](https://github.com/vinaykumarkunder/vinaykumarkunder/blob/output/github-contribution-grid-snake.svg)
+| Area | Result |
+|---|---|
+| Loan application throughput | **10,000+ applications/day**, sole backend engineer |
+| Payment gateway reliability | **99% success rate** across 15+ integrations (Razorpay, PhonePe, Enkash, AU Bank) |
+| Manual operations | Reduced **55–80%** via automated workflow pipelines |
+| Database performance | Query latency cut **up to 70%** via indexing + Redis caching |
+| Production uptime | **99%+** on AWS (EC2, RDS, Lambda, SQS) |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<br>
 
+## Tech Stack
 
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+**Backend & Frameworks**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
+**Data Layer**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**Infrastructure & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<div align="center">  
-                                                         
-<h3 align="left">Connect with me</h3>
-<p align="center">
+**APIs & Architecture**
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1A3A5C?style=flat-square)
 
-<a href="https://www.linkedin.com/in/vinay-kumar-01b807215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinay Kumar" height="25" width="35" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vinay3000111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vinay Kumar" height="25" width="35" /></a>
-<a href="https://www.hackerrank.com/vinay3000111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vinay Kumar" height="25" width="35" /></a>
-<a href="https://www.leetcode.com/vinay5504472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vinay Kumar" height="25" width="35" /></a>
-</p>
-</div>  
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+## Featured Projects
 
-                                                          
+### 🏦 [loan-origination-engine](https://github.com/vinaykumarkunder/loan-origination-engine)
+End-to-end loan origination backend modeled on production NBFC systems — KYC verification, multi-level approval (RO → BM → BCM), EMI/repayment/foreclosure calculators, and automated document generation.
 
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
+`NestJS` `PostgreSQL` `Redis` `Docker` `RBAC` `Swagger`
 
-<div align="center">  
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/hibernate-logo.png" alt="Hibernate" height="50" />
-   <img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc4gOUoPCLdDqEGb7Nk62T2VPDs_sods_F7sTscWw&s" alt="Springboot" height="50" />
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="JavaScript" height="50" /> 
-   
- 
+### 💳 [payment-gateway-orchestrator](https://github.com/vinaykumarkunder/payment-gateway-orchestrator)
+Unified orchestration layer for multi-provider payment processing — retry logic, idempotency keys, webhook reconciliation, and signature verification across gateway integrations.
 
-  
+`Node.js` `TypeScript` `Webhooks` `Idempotency` `Jest`
 
-<!--    -->
+### 📐 [system-design-notes](https://github.com/vinaykumarkunder/system-design-notes)
+Architecture decision records and diagrams from real production problems — database indexing strategy, caching layers, queue-based async processing, and scaling a monolith toward services.
 
-<!--    --> 
+`System Design` `ADRs` `Mermaid Diagrams`
 
+<br>
 
+## GitHub Activity
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumarkunder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Streak Stats](https://streak-stats.demolab.com?user=vinaykumarkunder&theme=tokyonight&hide_border=true)
 
-</div>  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarkunder&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinaykumarkunder&theme=tokyo-night&hide_border=true)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+<br>
 
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+## Currently
 
+Architecting a high-throughput NBFC lending platform as the sole backend engineer at **Plugseal Innovation Service**, while open-sourcing reusable patterns from that work above.
+
+<br>
+
+<div align="center">
+
+📫 **vinay3000111@gmail.com** &nbsp;·&nbsp; 📍 Bangalore, India
+
+</div>
